@@ -5,3 +5,4 @@ Map box was used to generate the longitude and latitude of a given place (Douala
 Dark Sky api was used to produce the weather forecast
 Npm mpackages included express ,request and hbs as main dependencies and nodemon as development dependecy
 Thinking about further updates
+Updates might include creating profile and customizing for a list of cities and getting updates for specific period
